@@ -1,0 +1,1057 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "cMkkZ1tZWJVcsPMvxpxsD3hyoB4",
+    "nextPageToken": "CBkQAA",
+    "pageInfo": {
+        "totalResults": 115,
+        "resultsPerPage": 25
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "gfqctZ_fG3O09cWvu63IkGi1H6c",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "RFn-adYyNpg"
+            },
+            "snippet": {
+                "publishedAt": "2023-03-10T12:11:28Z",
+                "channelId": "UCd5CdYxogKBwvv1xyuxhvZA",
+                "title": "신형 아반떼, 충격적 디자인…가격 2800만원까지! 하이브리드는 아직?",
+                "description": "*  \n---\n구독해주세요 : https://bit.ly/2NCioiE\n김한용 hy.kim@mocar.kr",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RFn-adYyNpg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RFn-adYyNpg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RFn-adYyNpg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/RFn-adYyNpg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/RFn-adYyNpg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "김한용의 MOCAR",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-03-10T12:11:28Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "D8XVx2tXw0B-7A8hC762n-X5eoM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "rPdTct6u3xk"
+            },
+            "snippet": {
+                "publishedAt": "2023-03-11T08:39:28Z",
+                "channelId": "UCT29dZNPg6exiMyMrVLL0fg",
+                "title": "신형 아반떼 디자인 리뷰 // 페이스리프트, 부분변경, CN7, ELANTRA",
+                "description": "#아반떼 #페이스리프트 #cn7 \n얼굴 위주로 살짝 바꾼, 전형적인 페이스리프트입니다.  \n\nⓒmediaAUTO 《미디어오토》의 모든 콘텐츠에 대한 권리는 《미디어오토》에 있습니다. 영상 URL이나 소스 코드를 통한 공유는 얼마든지 가능하나, 카피나 재편집, 복제 등은 금지합니다. \n\n콘텐츠 문의 및 다양한 소통\n이메일 제보ㅣ jebo@mediaauto.co.kr\n인스타그램ㅣ https://www.instagram.com/mediaauto_insta/\n미디어오토 구독하기ㅣhttps://bit.ly/2Pdo2rx\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - \n(주) 미디어오토ㅣ대표 장진택ㅣ창간 2019년 1월ㅣ인터넷신문사업등록번호 서울 아53361ㅣ사업자등록번호 383-88-01654ㅣ서울 마포구 상암동 월드컵북로 54길25 DMC 푸르지오시티 1024호ㅣ문의 ok@mediaauto.co.kr",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rPdTct6u3xk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rPdTct6u3xk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rPdTct6u3xk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/rPdTct6u3xk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/rPdTct6u3xk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "mediaAUTO 미디어오토",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-03-11T08:39:28Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "NzKZ_pch2sY6fG0EutUrGgCn0qw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "lkNgxfjmnzo"
+            },
+            "snippet": {
+                "publishedAt": "2023-04-17T06:59:48Z",
+                "channelId": "UC4_AL-HBcYBjCTyNnMw0DOw",
+                "title": "신형 아반떼 출고 전에 보시면 분명 도움되실 겁니다! 2023 아반떼 페이스리프트 1.6 가솔린 인스퍼레이션 베이지 시트 옵션, 기능, 2열 공간리뷰",
+                "description": "- 비지니스 문의 : lsh6166@naver.com\n- 현대자동차로 부터 시승차량을 지원받아 제작되었으며, 별도의 금전적 혜택은 제공받지 않았음을 밝힙니다.\n\n현대자동차 신형 아반떼, 아반떼 페이스리프트 모델을 시승해봤는데요\n지난 시승기 영상에 이어 이번 영상은 신형 아반떼 페이스리프트\n1.6 가솔린 인스퍼레이션 트림의 자세한 기능과 옵션, 공간리뷰입니다.\n아반떼 출고 전 시청하시면 분명 도움되실거에요 !\n\n#신형아반떼 #아반떼페이스리프트 #현대아반떼",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lkNgxfjmnzo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lkNgxfjmnzo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lkNgxfjmnzo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/lkNgxfjmnzo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/lkNgxfjmnzo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "자동차읽어주는남자",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-04-17T06:59:48Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "xhzTMygA40wkDYqg8d_WoLOAfjg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "sOWYQN5OSpY"
+            },
+            "snippet": {
+                "publishedAt": "2023-03-13T08:19:05Z",
+                "channelId": "UCRIedl2j6tGo1CKMv4-vlaw",
+                "title": "신형 아반떼 페이스리프트 실물 확인, 더 잘생겨진 준중형 세단 원탑!!",
+                "description": "#아반떼페이스리프트 #신형아반떼 #아반떼    \n\n안녕하세요 레드알피엠 TV 입니다\n이번 영상은 현대자동차의 준중형 세단 아반떼 이야기 입니다\n7번째 모델 체인지 이후 3년만에 페이스리프트를 단행한 신형 아반떼 영상 재밌게 즐겨주시길 바라며 레드알피엠 TV 많은 시청 및 구독 해주세요\n\n초청 현대자동차",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sOWYQN5OSpY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sOWYQN5OSpY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sOWYQN5OSpY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/sOWYQN5OSpY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/sOWYQN5OSpY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "레드알피엠 RedrpmTV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-03-13T08:19:05Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "3GTN_FtPRt7OJX0GyMLqwxzEPoY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "BD5qmv6pMnY"
+            },
+            "snippet": {
+                "publishedAt": "2023-04-16T15:30:22Z",
+                "channelId": "UCE8OHyOrP5wEse6-q4nXuUQ",
+                "title": "아반떼 CN7 신형 페이스리프트 VLOG :) 8개월 기다려서 받은 인생 첫 차. 아마존그레이 베이지시트 인스퍼레이션 #내돈내산 #아반떼cn7",
+                "description": "The New 아반떼(Pe) 스마트스트림 가솔린 1.6\n인스퍼레이션\n외장색상 : 아마존그레이\n내장색상 : 캐쉬미어 베이지\n추가옵션 : 17인치 알로이 휠& 타이어 II , 선루프 \n\n27살에 계약해서 8개월 만에 받은 인생 첫 차!\n앞으로 일상 브이로그로 찾아뵐게요 :)\n\n궁금하신 점은 댓글로 남겨주면 답변해 드릴게요 !\n\n#아반떼cn7 #현대차 #신형아반떼 #브이로그 #내돈내산 #일시불 #인생첫차",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BD5qmv6pMnY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BD5qmv6pMnY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BD5qmv6pMnY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/BD5qmv6pMnY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/BD5qmv6pMnY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "아림쓰 ARIM's",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-04-16T15:30:22Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "M5VFddckEWDQ3w8w1-Uk7NUoGEY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "OZlT6JWdq9I"
+            },
+            "snippet": {
+                "publishedAt": "2023-04-06T08:28:52Z",
+                "channelId": "UC0te_2Zradp_46A3iE9jYpw",
+                "title": "미친 가성비! 2,256만원짜리 더 뉴 아반떼 모던 깡통! 실차 보여드립니다 🤗",
+                "description": "가성비의 대명사 현대 아반떼.\n페이스리프트 버전 더 뉴 아반떼 모던 실차를 보고 왔습니다.\n\n영상으로 함께 확인하시죠!\n\n#카닥 #더뉴아반떼 #카다기",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OZlT6JWdq9I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OZlT6JWdq9I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OZlT6JWdq9I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/OZlT6JWdq9I/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/OZlT6JWdq9I/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "카닥TV [카다기]",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-04-06T08:28:52Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "MOgzCluw8MEsdcA_GHlDDNtSvYc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "QeAPLC1-UO8"
+            },
+            "snippet": {
+                "publishedAt": "2023-03-12T15:45:03Z",
+                "channelId": "UChO8Bz0JvDfareLOg3w1-jg",
+                "title": "신형 아반떼 별 거 아닌데 더 예뻐보이는 이유. 꼼꼼 디자인 리뷰! 풀옵 3000만원?",
+                "description": "#현대 #아반떼 #페이스리프트 \n어차피 잘 팔리는 차니까 많이 바뀌지는 않았어요. \n하지만 의미심장한 변화들이 보입니다. \n오늘도 함께 해주셔서 감사합니다. \n\nDirected by 정우성\n\n자동차 중심의 좋은 취향 라이프스타일 리뷰, 정우성의 더파크\n구독 / https://bit.ly/3raKTrk\ninstagram / @thepark_woosung\n협업 / team.thepark@gmail.com\n\n00:00 드디어 아반떼 페이스리프트\n00:19 앞모습 환골탈태\n02:07 사이드 뷰는 그대로인 것 같지만\n03:29 엉덩이도 예뻐짐\n04:37 익숙한 인테리어 미래의 단서\n06:06 가차없는 운전자 중심 인테리어\n07:55 현대 디자인의 변화, 조수석\n10:42 고객에 맞는 디자인\n11:20 다양한 컬러\n12:26 가격, 컬러, 총평",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QeAPLC1-UO8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QeAPLC1-UO8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QeAPLC1-UO8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/QeAPLC1-UO8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "정우성의 더파크 THE PARK",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-03-12T15:45:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "QmSz-8vupZHNjDBNBB3SuWjx2DY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "uV-D-ORVE9E"
+            },
+            "snippet": {
+                "publishedAt": "2023-03-17T16:39:47Z",
+                "channelId": "UCHE5Unmst5UVKUOg7N2aCkw",
+                "title": "VLOG | 20살에 계약해서 21살에 차 받기 03년생 첫 차 출고 브이로그 : 아반떼 cn7 인스퍼레이션 아마존그레이 #내돈내산",
+                "description": "안녕하세요 여러분 채경입니다-! 작년 12월 계약하고 온 날부터 말하고 싶어서 죽는 줄 알았지만~~ 약 3개월간 꽁꽁 숨기고 비밀을 유지하느라 힘들었오요ㅎ 드디어 공개하는 제 첫 차! 아반떼 cn7 인스퍼레이션 등급 아마존 그레이 색상이고, 내부는 모던 그레이로 선택했어요 후회 없는 선택을 한 거 같아서 기분이 좋으네용 21살 나이에 차를 갖게 되어 너무 기쁘고 감사합니다 여러분 덕분이에요♥ 어린 나이라 보험료도 비싸고 차 유지비도 만만치 않겠지만!! 안전운전하며 이곳저곳 열심히 잘 다녀볼게요 오늘 영상도 보러와 주셔서 감사합니다😽\n\n\n영상 속 옷 정보\ntop \nDay 1 minipoe 무드 세미크롭CD - 소라\nDay 2 FILLUMINATE 오버핏 1988 아치 로고 후디 - 네이비\nDay 3 - oddstudio OS 로고 크롭 니트 하프집업 - NAVY\nDay 4 X\n\nbottom\nDay 4 더핑크 하드 로우라이즈 워싱 슬림 부츠컷 청바지\n\nouter\nDay 3 SPAO 파스텔 푸퍼 - BLACK\nDay 4 NIKE\n\n\ncamera - Sony zv-1, iPhone 13 mini\nedit - Adobe Premiere Pro 2022\ninstagram - http://www.instagram.com/chaekyung_03/\ne-mail -  chaekyungworks@gmail.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uV-D-ORVE9E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uV-D-ORVE9E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uV-D-ORVE9E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/uV-D-ORVE9E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/uV-D-ORVE9E/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "채경CHAEKYUNG",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-03-17T16:39:47Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "KHDL9SlwXPI2jmSfleqDr_RYn2s",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "UW77GWsQZi8"
+            },
+            "snippet": {
+                "publishedAt": "2022-12-02T16:41:27Z",
+                "channelId": "UCFUpTxU3nlGed-suY-FjjxA",
+                "title": "충격적인🔥그랜저 하체🔥이거 정말 맞아?! 단독 최초공개!",
+                "description": "안녕하세요 우파TV입니다 오늘 준비한 영상은 바로!\n신형 그랜저 하체를 보고 왔습니다!! 과연 어떤게 바뀌었을지\n구형 그랜저와 함께 비교해봤습니다! 영상을 통해 확인해주세요!! \n재밌게 보셨다면 좋아요와 구독 부탁드립니다!\n\n🙋차량협찬 및 각종문의 - Blueskyh2@naver.com\n🛍검증된 차량용품은 우파몰 - http://woopa-mall.com\n🚙내 차 꾸밀 땐 오늘의카 - https://bit.ly/39GmzqX\n동네형이 알려주는 자동차 이야기 - https://woopa.co.kr/\n✍우파푸른하늘 블로그 - http://blog.naver.com/blueskyh2\n📷우파푸른하늘 인스타그램 - http://instagram.com/blueskyh2\n🎞편집 - 알플레이프로덕션(R-Play)\n\n00:00 오프닝\n00:27 더 모스트 대표님 소개\n01:28 디 올 뉴 그랜저의 엔진\n03:27 디 올 뉴 그랜저의 변속기\n04:38 디 올 뉴 그랜저 하이브리드\n05:29 디 올 뉴 그랜저의 강성\n09:38 그랜저 IG의 하체\n14:19 디 올 뉴 그랜저의 하체\n32:43 마무리\n34:03 광고 및 엔딩\n\n이 영상은 저의 쇼핑몰인 '우파몰' 홍보를 포함하고 있습니다.\n\n#신형그랜저 #그랜저 #하체비교",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UW77GWsQZi8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UW77GWsQZi8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UW77GWsQZi8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/UW77GWsQZi8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "우파푸른하늘Woopa TV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-12-02T16:41:27Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "mTy9TTWmaJWRz5oeHvHFRnU7CD4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "anuT_-gkC3U"
+            },
+            "snippet": {
+                "publishedAt": "2023-04-17T08:07:07Z",
+                "channelId": "UCFQ8D7RnvA1_1BWtIJXu86w",
+                "title": "2023 아반떼 페이스리프트 1.6 가솔린 인스퍼레이션 시승기ㅣ\"남녀노소 모두 이 차를 좋아하는 이유?\" 타보니 알겠습니다. 이 가격에 이 정도면 절대 비싼 게 아니죠.",
+                "description": "#아반떼페이스리프트 #1.6가솔린 #인스퍼레이션\n 아반떼 CN7 페이스리프트, #더뉴아반떼 1.6 가솔린 인스퍼레이션 트림을 시승했습니다. 모든 옵션이 들어가 있는 차량이지만 실제로 구매하실 땐 세이지 그린 컬러와 빌트인캠은 포함하지 않아도 충분합니다. \n 123마력의 가속 성능이 아쉽다는 평가가 많지만 실사용 구간에서의 경쾌함을 느낄 수 있어 일반적인 운전자들에게는 준수한 성능입니다. \n 아래와 같이 주행 보조, 안전 사양의 업그레이드가 있어 충분히 오랜 시간 타셔도 안전하게 타실 수 있을거라 생각합니다.\n▲고강성 경량 차체 \n▲동급 최초로 뒷좌석 사이드 에어백(좌/우)를 적용한 8에어백을 기본 적용\n▲전방 충돌방지 보조(FCA)\n▲후측방 충돌방지 보조(BCA)\n▲후방 교차 충돌방지 보조(RCCA)\n▲후방 주차 충돌방지 보조(PCA-R)\n▲내비게이션 기반 스마트 크루즈 컨트롤(NSCC)\n▲고속도로 주행 보조(HDA)\n▲안전 하차 경고(SEW)\n▲차로 유지 보조(LFA\n▲지능형 속도 제한 보조(ISLA)\n▲서라운드 뷰 모니터(SVM)\n▲후측방모니터(BVM)\n▲전·후방 주차거리 경고(PDW-F/R)\n\n📌블라인드_Car Story 쇼핑몰 : https://bit.ly/3I7at7V\n\n[기타 브랜드 할인]\n▶23년 4월 BMW 할인 : https://youtu.be/3rYO9XnlzIQ\n▶23년 4월 혼다 할인 : https://blind-carstory.tistory.com/228\n▶23년 4월 캐딜락 할인 : https://blind-carstory.tistory.com/224\n▶23년 4월 링컨 할인 : https://blind-carstory.tistory.com/229\n▶23년 4월 포드 할인 : https://blind-carstory.tistory.com/230\n▶23년 4월 렉서스 할인 : https://blind-carstory.tistory.com/225\n▶23년 4월 폭스바겐 할인 : https://blind-carstory.tistory.com/226\n▶23년 4월 지프 할인 : https://blind-carstory.tistory.com/231\n▶23년 4월 푸조 할인 : https://blind-carstory.tistory.com/232\n▶23년 4월 DS오토모빌 할인 : https://blind-carstory.tistory.com/227\n\n🔴현재 겟차 구매상담 후 출고하신 고객분들께 세차용품 지급 혜택은 겟차 카카오톡 플러스친구추가 후 채팅상담을 통해 진행하고 있습니다. \n겟차 카카오톡 플러스친구 추가 후 문의 하시면 상세한 내용 전달 받으실 수 있을것 같습니다. \n\n*타임라인*\n00:00 인트로\n00:29 벤츠 A-Class\n00:50 벤츠 CLA\n01:02 벤츠 C-Class\n01:28 벤츠 E-Class\n02:20 벤츠 CLS\n02:37 벤츠 S-Class/Maybach\n02:49 벤츠 AMG GT\n03:05 벤츠 GLA\n03:20 벤츠 GLB\n03:35 벤츠 GLC\n03:59 벤츠 GLE\n04:31 벤츠 GLS/G-Class\n04:42 벤츠 전기차 EQB, EQC, EQS\n05:40 견적은 여기서 알아보세요\n07:21 아웃트로\n\n*타임라인*\n00:00 트렁크 및 2열 공간감\n01:08 실내 탑승 시 잡소리\n02:09 가격에 대해서\n03:07 미션 및 가속 성능\n05:20 아반떼 가솔린의 연비\n06:47 승차감 및 정숙성\n08:24 코너링 및 핸들링\n09:13 고속 주행 성능\n10:40 아반떼 풀옵션의 편의장치\n13:47 시승한 뒤 느낀 점\n16:04 영상을 마무리하며\n16:31 아웃트로",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/anuT_-gkC3U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/anuT_-gkC3U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/anuT_-gkC3U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/anuT_-gkC3U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/anuT_-gkC3U/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "블라인드_Car Story",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-04-17T08:07:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "xX2Vkueabhu6L2PzIicA5ToRmpg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "CcaKrtoZVcQ"
+            },
+            "snippet": {
+                "publishedAt": "2023-04-25T02:52:42Z",
+                "channelId": "UCfhSGS0ox76QRsVUffaaZ5g",
+                "title": "메기탈출 \"쏘나타 디 엣지\" 현대가 이 갈고 만들었대요",
+                "description": "【쏘나타 디 엣지】\n\n--------------------------------------------------------------------------------\n■ 상담문의 : www.비교해볼카.com\n■ 대표번호 : 1800-7990\n--------------------------------------------------------------------------------\n\n■출처 제조사 웹사이트\n\"위 자료의 저작권은 제조사에 있습니다” \n\n#렌트 #리스 #장기렌트 #자동차리스 #자동차할부 #비교해볼카",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CcaKrtoZVcQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CcaKrtoZVcQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CcaKrtoZVcQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/CcaKrtoZVcQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/CcaKrtoZVcQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "비교해볼카TV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-04-25T02:52:42Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "VWYYEab3WFoGlQG-HqfmbowsVBM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_KnTCWviUMU"
+            },
+            "snippet": {
+                "publishedAt": "2023-03-17T17:05:01Z",
+                "channelId": "UCeOu8n5_uN3QOz3Cx7sqfGQ",
+                "title": "2023 아반떼 신형 가격 가격표 분석 | 구매 전 필수 시청! | 페이스리프트",
+                "description": "아반떼 가격 및 가격표를 분석하여\n\n아반떼 페이스리프트 신형을 구매하기 전 도움을 주는 영상입니다.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_KnTCWviUMU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_KnTCWviUMU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_KnTCWviUMU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_KnTCWviUMU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/_KnTCWviUMU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "자동차정보 카인포",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-03-17T17:05:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "zLlLZZL7hwuO4aHFSxuMWpu3wSg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Fvps-F99-D4"
+            },
+            "snippet": {
+                "publishedAt": "2023-03-30T04:07:26Z",
+                "channelId": "UCd5CdYxogKBwvv1xyuxhvZA",
+                "title": "신형 쏘나타 실물보니 디자인 충격…서울모빌리티쇼 라이브 편집본",
+                "description": "*  \n---\n구독해주세요 : https://bit.ly/2NCioiE\n김한용 hy.kim@mocar.kr",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Fvps-F99-D4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Fvps-F99-D4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Fvps-F99-D4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Fvps-F99-D4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Fvps-F99-D4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "김한용의 MOCAR",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-03-30T04:07:26Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "inLVm0n6F9O-5GcF6paMuSfKBYA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "fDNx0pq_ZWU"
+            },
+            "snippet": {
+                "publishedAt": "2023-03-13T10:19:57Z",
+                "channelId": "UC0te_2Zradp_46A3iE9jYpw",
+                "title": "[카닥] 더 뉴 아반떼 가성비 구매팁! 100만원 오른 대신 에어백 2개 더! LED 개안수술까지! 신형 아반떼 페이스리프트를 소개합니다.",
+                "description": "3년 만에 페이스리프트된 아반떼 CN7의 페이스리프트 모델, 더 뉴 아반떼가 나왔습니다.\n\n기본가가 약 100만원 가까이 인상됐지만 장점도 많아 보이는데요.\n문제는 모던 트림 가성비가 음............\n\n더 뉴 아반떼, 가성비 좋게 사는 구매팁을 함께 알아보시죠.\n\n#카닥 #짬바정 #더뉴아반떼",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fDNx0pq_ZWU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fDNx0pq_ZWU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fDNx0pq_ZWU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/fDNx0pq_ZWU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/fDNx0pq_ZWU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "카닥TV [카다기]",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-03-13T10:19:57Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "1aQr-sHqWiGuSOS8wLuIKlzDSSg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ViNclXZ7b5Y"
+            },
+            "snippet": {
+                "publishedAt": "2023-03-12T13:16:42Z",
+                "channelId": "UC5b2_GAScxz4guty7rv4Ulg",
+                "title": "현대 아반떼 신형 페이스리프트 실물 리뷰! 삼각떼서 다각떼로...오! 이렇게 바뀌었어요! (가격, 실내, 색상, 옵션, 트렁크, hyundai, avante)",
+                "description": "아반떼 신형 페이스리프트 실물을 드디어 살펴봤어요! 새롭게 들어간 실내 색상과 시트부터, 바뀐 몇가지 외관 디테일까지... 부분변경 아반떼 페리 모델 영상으로 보시죠!\n\n\n\nTag\n#아반떼페이스리프트 #아반떼리뷰 #현대아반떼\n\nE-mail (문의/이메일): \nssawyoung@gmail.com\n\nSNS(인스타그램):\n@carsawyoung",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ViNclXZ7b5Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ViNclXZ7b5Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ViNclXZ7b5Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ViNclXZ7b5Y/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ViNclXZ7b5Y/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "차봤서영 Seoyoung",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-03-12T13:16:42Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Gw7jgTceFdLwEe9N-1pI8KCaYUk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "KQoKyE6Tbx0"
+            },
+            "snippet": {
+                "publishedAt": "2023-04-06T11:54:27Z",
+                "channelId": "UCd5CdYxogKBwvv1xyuxhvZA",
+                "title": "현대 신형 아반떼 시승기...멋진건 기본! 더 깔끔하고, 더 조용하다",
+                "description": "현대 신형 아반떼 시승기...멋진건 기본! 더 깔끔하고, 더 조용하다\n---\n구독해주세요 : https://bit.ly/2NCioiE\n김한용 hy.kim@mocar.kr",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KQoKyE6Tbx0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KQoKyE6Tbx0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KQoKyE6Tbx0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/KQoKyE6Tbx0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/KQoKyE6Tbx0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "김한용의 MOCAR",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-04-06T11:54:27Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "cvE-NqyZNjBcrhM6_rysLonRpxY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_HmDxuTLLLU"
+            },
+            "snippet": {
+                "publishedAt": "2023-03-12T15:12:26Z",
+                "channelId": "UClTFZY1xepGlCzt9zdNMBNg",
+                "title": "2023 아반떼 공개! 브랜드 떼고 C클, 3시리즈 맞짱 가능~?",
+                "description": "아반떼가 깔끔한 성형을 거쳐서 다시 돌아왔습니다.\n일단 기본 자연흡기와 하이브리드만  선보이는데요~ 당연히 N 버전도 나오겠죠?\n더욱 잘생겨져서 돌아온 아반떼를 소개합니다.\n\n#2023아반떼 #아반떼페리 #페이스리프트 #신형아반떼 #차올라 #박광현",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_HmDxuTLLLU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_HmDxuTLLLU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_HmDxuTLLLU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_HmDxuTLLLU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/_HmDxuTLLLU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "박광현의 Chaol’ra 차올라",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-03-12T15:12:26Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "8i_Eax3OFLUjtMAc1k65e8z90s0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "KRaUX5h_7zI"
+            },
+            "snippet": {
+                "publishedAt": "2023-03-13T04:38:49Z",
+                "channelId": "UCMe445IIQn_f0s7G2wdAOZg",
+                "title": "아반떼 옵션 그돈C 안되게 골라보자!",
+                "description": "차도녀TV 메일 - pongpong123456@naver.com\n\n\n\n#아반떼 #아반떼옵션 #아반떼가격 #신형아반떼 #아반떼신형",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KRaUX5h_7zI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KRaUX5h_7zI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KRaUX5h_7zI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/KRaUX5h_7zI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/KRaUX5h_7zI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "차도녀TV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-03-13T04:38:49Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Bz1P9MK7ZeiPRdlAEo1dcUR09IE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "5_F_4GqvXJ8"
+            },
+            "snippet": {
+                "publishedAt": "2023-03-12T09:39:21Z",
+                "channelId": "UCD2teKavny2eQG0v9jCoVBw",
+                "title": "🔥가격은 190만원 인상?! 옵션은?! 🔥(☞ ͡° ͜ʖ ͡°)☞ 국민차 아반떼 페이스리프트 옵션 끝판왕!! 도저언!!!",
+                "description": "안녕하세요 뻥태기TV입니다!! 좋아요와 구독 부탁드립니다.\n🚥 광고 및 각종문의 : jungyt81@naver.com\n🚥 좋아요와 구독 부탁드립니다! : https://bit.ly/2FBvnwJ\n🚥 영등포 카워시랩 (신차패키지썬팅&디테일링&손세차&광택&유리막코팅) : 010-8386-3514\n🚥 신차견적, 장기렌트, 리스, 자동차할부의 모든것! 카카오톡 jungyt81\n\n#아반떼페이스리프트 #아반떼 #사회초년생차",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5_F_4GqvXJ8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5_F_4GqvXJ8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5_F_4GqvXJ8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/5_F_4GqvXJ8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/5_F_4GqvXJ8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "뻥태기TV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-03-12T09:39:21Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "HIchUHJv0JPoDrlmbToBShBW-no",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "a3lhCSTAPjQ"
+            },
+            "snippet": {
+                "publishedAt": "2023-04-26T16:31:37Z",
+                "channelId": "UCFUpTxU3nlGed-suY-FjjxA",
+                "title": "\"연봉 4,000? 꿈도 꾸지 마세요\" 월급쟁이가 60개월 풀 할부로 살 수 있는 신차 살펴보니...",
+                "description": "안녕하세요 우파TV입니다 오늘 준비한 영상은 바로!\n\"한달에 실수령 300만원을 번다면\" 어떤 차를 타야할까?! 현실적으로 유지비,할부 비교해봤습니다\n영상을 통해 확인해주세요!! 재밌게 보셨다면 좋아요와 구독 부탁드립니다!\n\n\n🙋차량협찬 및 각종문의 - Blueskyh2@naver.com\n🛍검증된 차량용품은 우파몰 - http://woopa-mall.com\n🚙내 차 꾸밀 땐 오늘의카 - https://bit.ly/39GmzqX\n✍우파푸른하늘 블로그 - http://blog.naver.com/blueskyh2\n📷우파푸른하늘 인스타그램 - http://instagram.com/blueskyh2\n\n\n이 영상은 저의 쇼핑몰인 '우파몰' 홍보를 포함하고 있습니다.\n\n#차량추천 #사회초년생 #연봉",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/a3lhCSTAPjQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/a3lhCSTAPjQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/a3lhCSTAPjQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/a3lhCSTAPjQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/a3lhCSTAPjQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "우파푸른하늘Woopa TV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-04-26T16:31:37Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Ib4Eme-SYGgznPszNVAItpc5y0Y",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "OcYt7zYvSug"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-23T08:56:47Z",
+                "channelId": "UCFUpTxU3nlGed-suY-FjjxA",
+                "title": "투싼보다 비싸다?! 신형 코나는 풀옵말고 무옵션 깡.통 코나로 출고해야 이유!",
+                "description": "안녕하세요 우파TV입니다 오늘 준비한 영상은 바로!\n신형 코나 너무 비싸다는 말이 많죠? 과연 코나 비싸기만 한걸까요!?\n기본 모델 가격은 2537만원 부터 시작을 하는데...과연 기본 모델은\n뭐가 다를지 영상을 통해 확인해주세요!! 재밌게 보셨다면 좋아요와 구독 부탁드립니다!\n\n🙋차량협찬 및 각종문의 - Blueskyh2@naver.com\n🛍검증된 차량용품은 우파몰 - http://woopa-mall.com\n🚙내 차 꾸밀 땐 오늘의카 - https://bit.ly/39GmzqX\n✍우파푸른하늘 블로그 - http://blog.naver.com/blueskyh2\n📷우파푸른하늘 인스타그램 - http://instagram.com/blueskyh2\n🎞편집 - 알플레이프로덕션(R-Play)\n\n#현대코나 #신형코나 #코나깡통",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OcYt7zYvSug/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OcYt7zYvSug/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OcYt7zYvSug/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/OcYt7zYvSug/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/OcYt7zYvSug/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "우파푸른하늘Woopa TV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-23T08:56:47Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "922Ye80DfXXD-yhjPG30TsEQjgA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "2zbMro0B8OM"
+            },
+            "snippet": {
+                "publishedAt": "2023-04-11T15:10:01Z",
+                "channelId": "UCGv8eaHcDr4mRsL-bSFzGjg",
+                "title": "★더 뉴 아반떼 인스퍼레이션 기능설명 이 영상 하나면 끝!★ - 가니가니",
+                "description": "#CN7 #기능설명\n\n이번 아반떼 패이스 리프트!!!\n개선된 기능과 \n새롭게 바뀐 디자인\n이 영상 하나면 \n싹~ 가능!\n옆에 타시죠~!\n\n☆☆☆☆☆☆☆☆☆☆☆☆\n제 채널은 차량 판매목적이 아닌\n정보전달 채널로서\n차량 구입상담은 가까운\n전시장을 두세군데 방문하시어,\n비교견적 해보시고 구입하시길 권장합니다.^^\n\n시청해주셔서 감사드립니다.^^\n☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆\n\n★협찬 및 PPL 비지니스메일★\nmayblue3221@gmail.com\n(차량 견적및 차량 구매관련 문의 정중히 사양합니다.\n- 회사 방침상 견적, 계약, 출고 문의 회신 불가합니다.^^)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2zbMro0B8OM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2zbMro0B8OM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2zbMro0B8OM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/2zbMro0B8OM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/2zbMro0B8OM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "가니가니 - 차린이 차량설명서",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-04-11T15:10:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ZGJCnV6ty--BIAGP5UZShizY3lY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "y_mePI7vypY"
+            },
+            "snippet": {
+                "publishedAt": "2023-03-11T11:58:59Z",
+                "channelId": "UCKJDn9qYAs_rOPRMbal0dQQ",
+                "title": "[운전vlog] 아반떼cn7 I 센텀에서 명지까지 I 동선 무슨일;; (feat.광안대교)",
+                "description": "#vlog#운전브이로그#아반떼#cn7#광안대교#주말일상\n\n지난 영상에 이어 광안대교 타고 황령터널, 동서고가도로 타고 명지까지 가는 영상입니다. 만관부~.~",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/y_mePI7vypY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/y_mePI7vypY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/y_mePI7vypY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/y_mePI7vypY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/y_mePI7vypY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "긔린girine",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-03-11T11:58:59Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ZOULApmU5MK2WGCowyzWH2BVIZw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "W4Npx2Ajoxg"
+            },
+            "snippet": {
+                "publishedAt": "2023-05-04T20:30:57Z",
+                "channelId": "UCFUpTxU3nlGed-suY-FjjxA",
+                "title": "선 넘었네...? 1억에 구독 옵션까지 생겨버린 국산 전기차...EV9 빠르게 타봤습니다",
+                "description": "안녕하세요 우파TV입니다 오늘 준비한 영상은 바로!\nEV9 옵션 어려우시죠!? 이 영상 하나로 모두 설명이 됩니다!\n정말 복잡한 EV9의 옵션 장난...정말 풀옵션 1억주고 사야할까요?...\n영상을 통해 확인해주세요!! 재밌게 보셨다면 좋아요와 구독 부탁드립니다!\n\n🙋차량협찬 및 각종문의 - Blueskyh2@naver.com\n🛍검증된 차량용품은 우파몰 - http://woopa-mall.com\n🚙내 차 꾸밀 땐 오늘의카 - https://bit.ly/39GmzqX\n✍우파푸른하늘 블로그 - http://blog.naver.com/blueskyh2\n📷우파푸른하늘 인스타그램 - http://instagram.com/blueskyh2\n🎞편집 - 알플레이프로덕션(R-Play)\n\n[에어디] 에어디 차량용 방향제 도베르만 토끼 쥐\n★3종세트 리필 2개 무료증정 EVENT!!★ (22:25)\nhttp://m.site.naver.com/15aVw\n\n이 영상은 저의 쇼핑몰인 '우파몰' 홍보를 포함하고 있습니다.\n\n#ev9 #ev9가격 #ev9옵션",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/W4Npx2Ajoxg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/W4Npx2Ajoxg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/W4Npx2Ajoxg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/W4Npx2Ajoxg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/W4Npx2Ajoxg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "우파푸른하늘Woopa TV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-05-04T20:30:57Z"
+            }
+        }
+    ]
+}

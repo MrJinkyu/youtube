@@ -14,14 +14,8 @@ export default function Videos() {
         <section>
             {keyword ? `videos🔍 ${keyword}` : 'videos 🔥'}
             {isLoading && <p>Loading...</p>}
-            {error && <p>Something is wrong😖</p>}
-            {videos && (
-                <ul>
-                {videos.map((video) => (
-                    <VideoCard key={video.id} video={video}/>
-                ))}
-                </ul>
-            )}
+            {error && <p>error!</p>}
+            {videos && videos.map((video) => <VideoCard  video={video}/>)}
         </section>
     );
 }

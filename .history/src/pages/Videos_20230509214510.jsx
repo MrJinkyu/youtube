@@ -18,7 +18,7 @@ export default function Videos() {
             {videos && (
                 <ul>
                 {videos.map((video) => (
-                    <VideoCard key={video.id} video={video}/>
+                    <VideoCard video={video}/>
                 ))}
                 </ul>
             )}

@@ -37,7 +37,7 @@ export default function SearchHeader() {
                 />
                 <button className={styles.searchBtn}><BsSearch/></button>
             </form>
-            <div className={styles.btns}>
+            <div className='btns'>
                     <button className={styles.btn}>
                         <a href="https://github.com/MrJinkyu?tab=repositories" target='blank'>
                             <VscGithubAlt className={styles.github}/>

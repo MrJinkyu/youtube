@@ -37,15 +37,19 @@ export default function SearchHeader() {
                 />
                 <button className={styles.searchBtn}><BsSearch/></button>
             </form>
-            <div className={styles.btns}>
-                    <button className={styles.btn}>
+            <div className='btns'>
+                <span className={styles.span}>
+                    <button>
                         <a href="https://github.com/MrJinkyu?tab=repositories" target='blank'>
                             <VscGithubAlt className={styles.github}/>
                         </a>
                     </button>
-                    <button className={styles.btn}>
+                </span>
+                <span className={styles.span}>
+                    <button>
                         <FiSun className={styles.mode}/>
                     </button>
+                </span>
             </div>
         </header>
     );

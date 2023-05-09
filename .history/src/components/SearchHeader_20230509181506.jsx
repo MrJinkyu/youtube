@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import { BsGooglePlay, BsSearch } from 'react-icons/bs';
+import { BsGooglePlay, BsSearch, BsGithub } from 'react-icons/bs';
 import { FiSun } from 'react-icons/fi';
 import { VscGithubAlt } from 'react-icons/vsc';
 import { useNavigate, useParams, Link } from 'react-router-dom';
@@ -37,15 +37,19 @@ export default function SearchHeader() {
                 />
                 <button className={styles.searchBtn}><BsSearch/></button>
             </form>
-            <div className={styles.btns}>
-                    <button className={styles.btn}>
+            <div className='btns'>
+                <span className={styles.span}>
+                    <button>
                         <a href="https://github.com/MrJinkyu?tab=repositories" target='blank'>
-                            <VscGithubAlt className={styles.github}/>
+                            <VscGithubAlt/>
                         </a>
                     </button>
-                    <button className={styles.btn}>
-                        <FiSun className={styles.mode}/>
+                </span>
+                <span className={styles.span}>
+                    <button>
+                        <FiSun/>
                     </button>
+                </span>
             </div>
         </header>
     );

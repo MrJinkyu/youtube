@@ -1,0 +1,21 @@
+header{
+    display:  flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo{
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+}
+
+.icon{
+    color: #359af2;
+    font-size: 1.5rem;
+    margin-right: 0.2rem;
+}
+
+.title{
+    color: white;
+}

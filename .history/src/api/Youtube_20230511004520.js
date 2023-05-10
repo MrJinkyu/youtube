@@ -21,11 +21,9 @@ export default class Youtube{
 
     async #mostPopular(){
         return this.apiClient.videos({
-            params:{
-                part:'snippet',
-                maxResults:25,
-                chart:'mostPopular',
-            }
+            part:'snippet',
+            maxResults:25,
+            chart:'mostPopular',
         })
         .then((res) => res.data.items)
     }

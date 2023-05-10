@@ -7,10 +7,7 @@ import FakeYoutube from '../api/FakeYoutube';
 
 export default function Videos() {
     const { keyword } = useParams();
-    const { isLoading, error, data:videos } = useQuery(['videos',keyword],async () => {
-        const youtube = new FakeYoutube();
-        return youtube.search(keyword);
-    });
+    const { isLoading, error, data:videos } = useQuery(['videos',keyword],async () => FakeYoutube(keyword));
     return (
         <section>
             {keyword ? `videos🔍 ${keyword}` : 'videos 🔥'}

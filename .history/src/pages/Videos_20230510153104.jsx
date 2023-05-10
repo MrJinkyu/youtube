@@ -7,9 +7,9 @@ import { useYoutubeApi } from '../context/YoutubeApiContext';
 
 
 export default function Videos() {
-    const { youtube } = useYoutubeApi();
+    const {youtube} = useYoutubeApi();
     const { keyword } = useParams();
-    const { isLoading, error, data:videos } = useQuery(['videos',keyword],async () => youtube.search(keyword))
+    const { isLoading, error, data:videos } = useQuery(['videos',keyword],async () => )
     return (
         <section>
             {keyword ? `videos🔍 ${keyword}` : 'videos 🔥'}

@@ -7,7 +7,7 @@ export default class FakeYoutubeClient{
     }
 
     async search({params}){
-        const isRelated = params.relatedToVideoId;
+        const isRelated = params.relatedToVideoId; 
         return axios.get(`/videos/${isRelated ? 'related':'search'}.json`);
     }
 

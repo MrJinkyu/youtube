@@ -13,10 +13,9 @@ export default class Youtube{
                 part:'snippet',
                 maxResults:25,
                 type:'video',
-                relatedToVideoId: id,
+                q:keyword
             }
         })
-        .then((res) => res.data.items.map((item) => ({...item,id:item.id.videoId})))
     }
 
     async channelImgURL(id){

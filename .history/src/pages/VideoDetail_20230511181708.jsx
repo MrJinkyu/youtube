@@ -2,7 +2,6 @@ import React from 'react';
 import { useLocation } from 'react-router-dom';
 import ChannelInfo from '../components/ChannelInfo';
 import RelatedVideos from '../components/RelatedVideos';
-import styles from './VideoDetail.module.css';
 
 export default function VideoDetail() {
     const {state:{video}} = useLocation();

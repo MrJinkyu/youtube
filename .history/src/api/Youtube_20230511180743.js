@@ -13,7 +13,7 @@ export default class Youtube{
                 part: 'snippet',
                 id,
             }
-        }).then((res) => res.data.items[0].snippet.thumbnails.default.url);
+        }).then((res) => res.data.items[0].snippet.default.url);
     }
 
     async #searchByKeyword(keyword){

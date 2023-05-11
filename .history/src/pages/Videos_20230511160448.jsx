@@ -12,6 +12,7 @@ export default function Videos() {
     const { isLoading, error, data:videos } = useQuery(['videos',keyword],async () => youtube.search(keyword))
     return (
         <section className={styles.container}>
+            {keyword ? `videos🔍 ${keyword}` : 'videos 🔥'}
             {isLoading && <p>Loading...</p>}
             {error && <p>Something is wrong😖</p>}
             {videos && (

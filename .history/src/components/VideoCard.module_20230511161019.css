@@ -1,0 +1,20 @@
+.card{
+
+}
+
+.img{
+    width: 100%;
+}
+
+.description{
+
+}
+
+.title{
+    font-weight: bold;
+}
+
+.channel,.date{
+    opacity: 0.8;
+    font-size: 0.8rem;
+}

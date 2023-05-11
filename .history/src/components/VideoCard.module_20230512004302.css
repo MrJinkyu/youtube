@@ -1,0 +1,52 @@
+.card{
+    cursor: pointer;
+}
+
+.card.list{
+    display: flex;
+}
+
+.img{
+    border-radius: 1rem;
+    width: 100%;
+}
+
+.img.list{
+    width: 10rem;
+    margin-right: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.description{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.title{
+    font-weight: bold;
+    margin-top: 0.5rem;
+    margin-bottom: 1rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
+
+.channel,.date{
+    opacity: 0.8;
+    font-size: 0.8rem;
+}
+
+@media (max-width:479px){
+    .title{
+        font-weight: bold;
+        margin: 0.25rem;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        display: -webkit-box;
+        -webkit-line-clamp: 1;
+        -webkit-box-orient: vertical;
+    }
+}

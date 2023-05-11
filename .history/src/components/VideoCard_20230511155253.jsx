@@ -1,5 +1,4 @@
 import React from 'react';
-import { foramtAgo } from '../util/date';
 
 export default function VideoCard({video}) {
     const {thumbnails, title, channelTitle, publishedAt} = video.snippet;
@@ -9,7 +8,7 @@ export default function VideoCard({video}) {
             <div>
                 <p>{title}</p>
                 <p>{channelTitle}</p>
-                <p>{foramtAgo(publishedAt,'ko')}</p>
+                <p>{publishedAt}</p>
             </div> 
         </li>
     );

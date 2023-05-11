@@ -5,7 +5,6 @@ import Youtube from '../api/Youtube';
 
 const YoutubeApiContext = createContext();
 
-// const client = new YoutubeClient();
 const client = new FakeYoutubeClient();
 const youtube = new Youtube(client);
 

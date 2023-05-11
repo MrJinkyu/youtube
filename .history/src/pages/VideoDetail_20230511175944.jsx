@@ -9,14 +9,14 @@ export default function VideoDetail() {
     return (
         <section>
             <article>
-                <iframe 
-                    id="player"
-                    type="text/html"
-                    width="100%"
-                    height="640"
-                    src={`https://www.youtube.com/embed/${video.id}`}
-                    frameborder="0"
-                    title={title}>
+            <iframe 
+                id="player"
+                type="text/html"
+                width="100%"
+                height="640"
+                src={`http://www.youtube.com/embed/${video.id}`}
+                frameborder="0"
+                title={title}>
                 </iframe>
                 <div className="description">
                     <h2>{title}</h2>

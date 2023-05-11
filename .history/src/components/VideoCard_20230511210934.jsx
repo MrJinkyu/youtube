@@ -12,7 +12,7 @@ export default function VideoCard({video, type}) {
     const isList = type === 'list';
     return (
         <li onClick={handleClick} className={`${styles.card} ${isList ? styles.list : ''}`}>
-            <img className={`${styles.img} ${isList ? styles.list : ''}`} src={thumbnails.medium.url} alt={title} />
+            <img className={styles.img} src={thumbnails.medium.url} alt={title} />
             <div className={styles.description}>
                 <p className={styles.title}>{title}</p>
                 <p className={styles.channel}>{channelTitle}</p>

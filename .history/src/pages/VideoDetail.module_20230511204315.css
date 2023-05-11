@@ -1,0 +1,7 @@
+.detail{
+    display: flex;
+}
+
+.video{
+    flex-basis: 60%;
+}

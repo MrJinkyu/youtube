@@ -1,0 +1,23 @@
+.detail{
+    display: flex;
+    width: 100%;
+    padding: 0 2rem;
+}
+
+.video{
+    width: 60%;
+}
+
+.info{
+    padding-top: 0.5rem;
+}
+
+.title{
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+
+.description{
+    background-color: #363636;
+    width: 100%;
+}

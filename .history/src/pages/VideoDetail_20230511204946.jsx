@@ -10,25 +10,22 @@ export default function VideoDetail() {
     return (
         <section className={styles.detail}>
             <article className={styles.video}>
-                <div className={styles.play}>
-                    <iframe 
-                        id="player"
-                        type="text/html"
-                        width="100%"
-                        height="640"
-                        frameBorderRadius='1rem'
-                        src={`https://www.youtube.com/embed/${video.id}`}
-                        frameBorder="0"
-                        title={title}>
-                    </iframe>
-                </div>
+                <iframe 
+                    id="player"
+                    type="text/html"
+                    width="100%"
+                    height="640"
+                    src={`https://www.youtube.com/embed/${video.id}`}
+                    frameBorder="0"
+                    title={title}>
+                </iframe>
                 <div className={styles.info}>
                     <h2 className={styles.title}>{title}</h2>
                     <ChannelInfo id={channelId} name={channelTitle} />
-                    <div className={styles.description}>{description}</div>
+                    <pre className={styles.description}>{description}</pre>
                 </div>
             </article>
-            <section className={styles.related}>
+            <section>
                 <RelatedVideos id={video.id}/>
             </section>
         </section>

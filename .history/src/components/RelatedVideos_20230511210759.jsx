@@ -1,6 +1,7 @@
 import React from 'react';
 import { useQuery } from '@tanstack/react-query';
 import { useYoutubeApi } from '../context/YoutubeApiContext';
+import styles from './RelatedVideos.module.css';
 import VideoCard from './VideoCard';
 
 export default function RelatedVideos({id}) {
@@ -11,7 +12,7 @@ export default function RelatedVideos({id}) {
             {isLoading && <p>Loading...</p>}
             {error && <p>Something is wrong😖</p>}
             {videos && (
-                <ul>
+                <ul className={styles.videos}>
                 {videos.map((video) => (
                     <VideoCard key={video.id} video={video} type='list'/>
                 ))}

@@ -5,7 +5,7 @@
 }
 
 .video{
-    flex-basis: 65%;
+    flex-basis: 4/6;
     margin-right: 2rem;
 }
 
@@ -36,7 +36,7 @@
 }
 
 .related{
-    flex-basis: 35%;
+    /* width: 30%; */
 }
 
 @media (max-width:1024px){

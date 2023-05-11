@@ -1,0 +1,12 @@
+.detail{
+    display: flex;
+    width: 100%;
+}
+
+.video{
+    width: 60%;
+}
+
+.description{
+    padding: 2rem 0;
+}

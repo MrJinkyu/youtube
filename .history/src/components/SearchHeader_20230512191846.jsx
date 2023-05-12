@@ -1,13 +1,13 @@
 import React, { useEffect, useState } from 'react';
 import { BsGooglePlay, BsSearch } from 'react-icons/bs';
-import { FiSun, FiMoon } from 'react-icons/fi';
+import { FiSun } from 'react-icons/fi';
 import { VscGithubAlt } from 'react-icons/vsc';
 import { useNavigate, useParams, Link } from 'react-router-dom';
 import styles from './SearchHeader.module.css';
 import { useDarkMode } from '../context/DarkModeContext';
 
 export default function SearchHeader() {
-    const { darkMode,toggleDarkMode } = useDarkMode();
+    const {darkMode,toggleDarkMode} = useDarkMode();
     const { keyword } = useParams();
     const navigate = useNavigate();
     const [text, setText] = useState('');
@@ -45,9 +45,8 @@ export default function SearchHeader() {
                             <VscGithubAlt className={styles.github}/>
                         </a>
                     </button>
-                    <button className={styles.btn} onClick={toggleDarkMode}>
-                        {darkMode && <FiSun className={styles.mode}/>}
-                        {!darkMode && <FiMoon className={styles.mode}></FiMoon>}
+                    <button className={styles.btn}>
+                        <FiSun className={styles.mode}/>
                     </button>
             </div>
         </header>

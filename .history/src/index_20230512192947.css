@@ -1,15 +1,11 @@
 :root{
-  --color-bg: #ffffff;
-  --color-text: #000000;
-  --color-icon: #1d69db;
-  --color-search: #e1e3e6;
+  --color-bg: #212121;
+  --color-text: #ffffff;
 }
 
 html.dark{
-  --color-bg: #212121;
-  --color-text: #ffffff;
-  --color-icon: #33c2ff;
-  --color-search:#3b3b3b;
+  --color-bg: #ffffff;
+  --color-text: #000000;
 }
 
 *{

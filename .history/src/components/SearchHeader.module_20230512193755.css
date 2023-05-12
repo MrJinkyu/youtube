@@ -37,7 +37,7 @@ header{
     border-bottom-left-radius: 1.5rem;
     padding: 0.5rem 2rem;
     font-size: 1.2rem;
-    color: var(--color-text);
+    color: white;
     outline: none;
     background-color: var(--color-search);
 }

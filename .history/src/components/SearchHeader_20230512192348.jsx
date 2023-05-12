@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { BsGooglePlay, BsSearch } from 'react-icons/bs';
-import { FiSun, FiMoon } from 'react-icons/fi';
+import { FiSun } from 'react-icons/fi';
+import { HiMoon } from 'react-icons/hi';
 import { VscGithubAlt } from 'react-icons/vsc';
 import { useNavigate, useParams, Link } from 'react-router-dom';
 import styles from './SearchHeader.module.css';
@@ -46,8 +47,8 @@ export default function SearchHeader() {
                         </a>
                     </button>
                     <button className={styles.btn} onClick={toggleDarkMode}>
-                        {darkMode && <FiSun className={styles.mode}/>}
-                        {!darkMode && <FiMoon className={styles.mode}></FiMoon>}
+                        {!darkMode && <FiSun className={styles.mode}/>}
+                        {darkMode && <HiMoon></HiMoon>}
                     </button>
             </div>
         </header>

@@ -10,13 +10,13 @@ const queryClient = new QueryClient();
 function App() {
   return (
     <div className="App">
+      <SearchHeader/>
       <DarkModeProvider>
-        <SearchHeader/>
-        <YoutubeApiProvider>
-        <QueryClientProvider client={queryClient}>
-          <Outlet/>
-        </QueryClientProvider>
-        </YoutubeApiProvider>
+      <YoutubeApiProvider>
+      <QueryClientProvider client={queryClient}>
+        <Outlet/>
+      </QueryClientProvider>
+      </YoutubeApiProvider>
       </DarkModeProvider>
     </div>
   );

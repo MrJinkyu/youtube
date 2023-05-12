@@ -46,8 +46,8 @@ export default function SearchHeader() {
                         </a>
                     </button>
                     <button className={styles.btn} onClick={toggleDarkMode}>
-                        {darkMode && <FiSun className={styles.mode}/>}
-                        {!darkMode && <FiMoon className={styles.mode}></FiMoon>}
+                        {!darkMode && <FiSun className={styles.mode}/>}
+                        {darkMode && <FiMoon className={styles.mode}></FiMoon>}
                     </button>
             </div>
         </header>
